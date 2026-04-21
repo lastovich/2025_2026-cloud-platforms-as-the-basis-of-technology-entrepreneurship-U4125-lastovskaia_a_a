@@ -37,5 +37,6 @@ Date of finished:
   - исправила на созданный ранее
   - при запуске VM получила запрос на charge
     <img width="1348" height="336" alt="image" src="https://github.com/user-attachments/assets/71b37bd5-c0f6-4306-9af0-cb633a6fbfbb" />
+  - удалила VM, на сегодня пока хватит
 
 
