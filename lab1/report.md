@@ -38,5 +38,12 @@ Date of finished:
   - при запуске VM получила запрос на charge
     <img width="1348" height="336" alt="image" src="https://github.com/user-attachments/assets/71b37bd5-c0f6-4306-9af0-cb633a6fbfbb" />
   - удалила VM, на сегодня пока хватит
+  ## Attempt #2
+  - Создала новую VM, изменила Service Account на ранее созданный  
+  <img width="1073" height="667" alt="image" src="https://github.com/user-attachments/assets/b6887b3e-d282-4b9f-aaa0-7fed545c18d5" />
+
+- С использованием gcloud storage buckets list получена ошибка
+  <img width="1333" height="164" alt="image" src="https://github.com/user-attachments/assets/04dba353-edcc-4455-8fdc-38fafd2ec42e" />
+
 
 
