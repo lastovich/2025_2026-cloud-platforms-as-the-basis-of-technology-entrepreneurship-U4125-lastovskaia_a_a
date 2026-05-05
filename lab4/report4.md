@@ -106,23 +106,26 @@ $627.22 / month
 <img width="350" height="231" alt="image" src="https://github.com/user-attachments/assets/9c5e80fd-dba0-439b-9365-a7d39e9ee9e4" />
 
 ### Stage 2 — тест 
-Total estimated cost  
-$1,730.25/ mo  
-Добавлены:  
-AI & ML $799.25  
-Data Analytics (Pub/Sub)  $303.78  
+
+| Total amount | $1,730.25 / mo |
+|--------------|-----------|
+| Component | Cost |
+| AI & ML | $799.25 |
+| Data Analytics (Pub/Sub) | $303.78 |
 
 ### Stage 3 - Production
-Total estimated cost  
-$3,391.78/ mo  
-https://cloud.google.com/products/calculator?dl=CjhDaVExWkROaVptUmlNUzB3T0RJM0xUUTBOek10WWpJMVl5MWpNV1pqWmpNek5UWXlPR1VRQVE9PRAJGiQ2NDNFNkNEQy1CQ0Y2LTRBNjItOUNCNi1CRTU2NjQzRDJBMDU  
-Добавлены:  
-Compute  $1,551.64
-GKE (Kubernetes Engine)  $586.64  
-Apigee  $965.00  
-Databases (x2)  $287.46  
-Storage (5 TiB)  $102.40   
+ 
+| Total amount | $4,883.58 / mo |
+|--------------|-----------|
+| Component | Cost |
+| Compute | $1,551.64 |
+| GKE (Kubernetes Engine) | $586.64  |
+| Apigee | $965.00 |
+| Databases (x2) | $287.46   |
+| Storage (5 TiB) | $102.04 |
+| Editions (BigQuery) | $1,489.40 |
 
+Ссылк на рассчет: https://cloud.google.com/products/calculator?dl=CjhDaVEzTVRjMVl6QTBOUzB4WldVMkxUUmxOV0V0WVRsa05pMDRaVFl4Wm1SaU9XUTFZMlFRQVE9PRALGiQxOTU5MDk1Ri1COEVBLTRDMTQtQTUyNC1BNDEyNDJFNTE2MkU 
 
 
 ### Обоснование 
